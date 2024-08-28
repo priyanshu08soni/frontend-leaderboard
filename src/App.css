@@ -1,0 +1,62 @@
+body{
+    font-family: "Nunito", sans-serif;
+}
+.logo{
+    font-size: 70px;
+    padding-left: 40px;
+    color: #e27498;
+}
+.heading{
+    color: #e27498;
+    text-decoration:underline  #e27498 3px;
+    text-underline-offset: 12px;
+}
+.leaderboard{
+    border: 3px solid #e8d3da;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+hr{
+    border: 2px solid #e8d3da;
+}
+button{
+    background-color:#efc0d0;
+    padding-top: 5px;
+    border: 3px solid #efc0d0;
+    padding-bottom: 5px;
+    color: rgb(48, 48, 48);
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 #00000033, 0 6px 20px 0 #00000030;
+}
+button:hover{
+    box-shadow: none;
+    background-color:#e8d3da;
+}
+.slippage{
+    background-color: #e8d3da;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+.dropdown{
+    height: 100%;
+    background-color: #e8d3da;
+    border: 0px;
+}
+.input{
+    border:0px;
+    width: 100%;
+    border: 3px solid #efc0d0;
+    padding-top:8px ;
+    padding-bottom:8px ;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+input[type=text]{
+    background-color: #e8d3da;
+}
